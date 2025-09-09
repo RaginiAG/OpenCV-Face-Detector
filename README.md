@@ -10,6 +10,11 @@ A simple **real-time face detection application** built using **Python** and **O
 ## 📸 Demo  
 The app uses your **webcam** to detect faces in real-time and draws a green rectangle around detected faces.  
 
+## 📌 Example Output  
+
+Here is a sample output of face detection:  
+
+![Sample Output](OpenCV-Face-Detector.png)
 ---
 
 ## 🚀 Features  
@@ -24,7 +29,8 @@ The app uses your **webcam** to detect faces in real-time and draws a green rect
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/OpenCV-Face-Detector.git
-   cd OpenCV-Face-Detector
+   git clone https://github.com/RaginiAG/OpenCV-Face-Detector.git
+cd OpenCV-Face-Detector
+
 
    
