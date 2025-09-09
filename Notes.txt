@@ -1,0 +1,32 @@
+
+---
+
+## 📄 Notes.txt  
+
+```txt
+Project: OpenCV-Face-Detector
+
+Description:
+A Python application that detects faces from the webcam in real-time.
+It uses OpenCV's Haar Cascade Classifier to identify faces and draws green rectangles around them.
+The video feed is displayed in mirror mode (like a selfie camera) with fullscreen support.
+
+How to Run:
+1. Install Python 3.x
+2. Install OpenCV library:
+   pip install opencv-python
+3. Run the script:
+   python face_detection.py
+4. A window will open showing the webcam feed with detected faces.
+5. Press 'a' to exit the application.
+
+Key Features:
+- Real-time face detection
+- Mirror effect
+- Resizable/fullscreen window
+- Exit with 'a' key
+
+Tech:
+- Python
+- OpenCV (cv2)
+
