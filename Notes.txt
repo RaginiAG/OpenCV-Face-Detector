@@ -1,9 +1,5 @@
-
----
-
 ## 📄 Notes.txt  
 
-```txt
 Project: OpenCV-Face-Detector
 
 Description:
