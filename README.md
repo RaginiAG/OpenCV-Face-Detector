@@ -1,2 +1,30 @@
 # OpenCV-Face-Detector
-Real-time face detection app built with Python and OpenCV, featuring mirror view and resizable fullscreen window.
+
+A simple **real-time face detection application** built using **Python** and **OpenCV**, with:  
+✅ Mirror effect (like a selfie camera)  
+✅ Resizable & fullscreen support  
+✅ Press 'a' to exit  
+
+---
+
+## 📸 Demo  
+The app uses your **webcam** to detect faces in real-time and draws a green rectangle around detected faces.  
+
+---
+
+## 🚀 Features  
+- Real-time face detection using Haar Cascade Classifier  
+- Mirror effect for natural viewing  
+- Resizable window (can maximize to fullscreen)  
+- Simple and lightweight code  
+
+---
+
+## 🛠️ Installation  
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/OpenCV-Face-Detector.git
+   cd OpenCV-Face-Detector
+
+   
